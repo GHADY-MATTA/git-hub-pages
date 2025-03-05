@@ -129,7 +129,7 @@ body {
     justify-content: center !important;
     align-items: center !important;
     width: 100% !important;
-    border: 1px solid red;
+    /* border: 1px solid red; */
 }
 
 .backbtn1{
